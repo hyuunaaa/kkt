@@ -213,29 +213,4 @@ sections:
       css_style: "text-align: center;"
 
 
-
-
-  - block: experience
-    content:
-      title: Education
-      items:
-        - title: 이공계열
-          description: 전주고등학교
-          date_start: '2016-03-02'
-          date_end: '2019-12-31'
-        - title: B.S. in (컴퓨터공학부)
-          description: 전북대학교 (JBNU) 컴퓨터공학부
-          date_start: '2020-03-02'
-          date_end: '2025-08-31'
-
-  - block: tag_cloud
-    content:
-      title: My tags
-      subtitle: ''
-      text: 사용한 태그들
-      taxonomy: tags
-      count: 0
-    design:
-      font_size_min: 0.7
-      font_size_max: 2.0
 ---
