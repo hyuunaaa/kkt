@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        김현아
       image:
         filename: welcome.jpg
       text: |
