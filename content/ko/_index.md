@@ -14,7 +14,7 @@ sections:
     design:
       background:
         image:
-          filename: 18216.jpg
+          filename: 배경이미지.jpg
           # Optional: Set background image options
           size: cover
           position: center
