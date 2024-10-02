@@ -25,7 +25,7 @@ sections:
       title: About me
       text: |- 
         <span class="justified-text" style="color: gray;">
-        헬롱
+        hfgbf
         </span>
 
   - block: features
